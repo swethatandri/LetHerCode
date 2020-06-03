@@ -1,0 +1,237 @@
+#navbar
+{
+    background-color: white;
+    border-bottom: 5px black solid;
+    
+
+}
+
+#navbar h1{
+
+    padding-left: 150;
+    padding-right: 400;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top:10;
+    float: left;
+    font-size: 40;
+    font-family: 'Poppins', sans-serif;
+}
+
+#navbar ul{
+
+    width: 100%;
+    height: 80;
+    list-style: none;
+    
+   
+
+
+}
+
+#navbar li{
+
+    float: left ;
+    padding-right: 100;
+    
+    padding-top: 30;
+    font-size: 20;
+    
+    
+}
+
+#navbar a{
+    text-decoration: none;
+}
+
+body{
+
+    background-color: #fffef2;
+    padding: 0;
+    margin: 0;
+}
+
+#half1{
+
+}
+
+#half1 img{
+
+    float: right;
+    width: 29%;
+    height: 550;
+    margin-left: 40;
+    margin-top: 40;
+    margin-bottom: 40;
+    margin-right: 100;
+
+
+}
+
+#half1 p1{
+
+    float: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50;
+    width: 40%;
+    padding-left: 120;
+    padding-top: 40;
+    
+    margin:30;
+
+
+}
+
+#half1 p2{
+
+    float: left;
+    font-size: 40;
+    margin-left: 140;
+    margin-top: 20;
+    
+    background-color:#F2A2E6;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+
+#half2{}
+
+#half2 h2{
+
+    font-family: 'Poppins', sans-serif;
+    margin-left: 90;
+    font-size: 40;
+    margin-top: -50px;
+    padding-top: 0;
+    font-weight: 3;
+   
+
+
+}
+
+#half2 h4{
+
+    background-color:#F2A2E6;
+    border-radius: 25px;
+    
+    width: 500;
+    height: 100;
+    margin-top: -60px;
+
+
+}
+
+#half2 p{
+
+    font-family: Georgia;
+    font-size: 17px;
+    line-height: 2.2;
+    margin-top: 30;
+    margin-left: 400;
+    margin-right: 400;
+}
+
+.clear{
+
+    clear: both;
+}
+
+
+#ahalf1{
+
+   
+
+
+}
+
+#ahalf1 h1{
+
+    font-size: 80;
+    font-weight: lighter;
+    margin-left: 60;
+    margin-top: -10;
+    margin-right: 500;
+    margin-bottom: 0;
+    
+    
+    
+    
+
+
+
+
+}
+
+#ahalf1 h4{
+   
+    background-color:#F2A2E6;
+    border-radius: 25px;
+
+    width: 700;
+    height: 100;
+    margin-top: -50px;
+
+
+}
+
+#ahalf1 img{
+
+    float: right;
+    height: 400;
+    margin-top: -45;
+    margin-right: 30;
+
+    
+
+}
+
+
+
+
+.highlight{
+
+    background-color: yellow;
+    margin-left: 300;
+    margin-right: 500;
+    font-family: Georgia;
+    font-size: 17px;
+    line-height: 2.2;
+   
+    
+}
+
+  
+
+#ahalf1 p{
+
+    font-family: Georgia;
+    font-size: 17px;
+    line-height: 2.2;
+    margin-top: 30;
+    margin-left: 300;
+    margin-right: 500;
+    padding: 0;
+}
+
+
+
+
+
+
+
+footer{
+        
+    text-align: center;
+    padding: 3px;
+    height: 50;
+    background-color: black;
+    color: white;
+    width: 100%;
+
+    
+  
+
+}
+
+
