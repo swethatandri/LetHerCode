@@ -1,7 +1,7 @@
 #navbar
 {
     background-color: white;
-    border-bottom: 5px black solid;
+    border-bottom: 2px black solid;
     
 
 }
@@ -47,11 +47,14 @@
 body{
 
     background-color: #fffef2;
+    
     padding: 0;
     margin: 0;
 }
 
 #half1{
+
+   
 
 }
 
@@ -69,15 +72,20 @@ body{
 }
 
 #half1 p1{
-
+    background-color: whitesmoke;
     float: left;
     font-family: 'Poppins', sans-serif;
     font-size: 50;
     width: 40%;
-    padding-left: 120;
-    padding-top: 40;
+    margin-left: 100;
+    padding-top: 30;
+    padding-bottom: 30;
+    margin-top: 70;
+    padding-left: 20;
+    margin-bottom: 30;
+    border-radius: 20px;
     
-    margin:30;
+    
 
 
 }
@@ -91,6 +99,7 @@ body{
     
     background-color:#F2A2E6;
     font-family: 'Poppins', sans-serif;
+    border-radius: 8px;
     
 
 }
@@ -214,6 +223,39 @@ body{
     padding: 0;
 }
 
+.pshift{
+
+    width: 50%;
+    float: right;
+    margin-top: -90;
+    font-family: Georgia;
+    font-size: 19px;
+    
+    margin-right: 10;
+    
+    background-color: yellow;
+   
+    
+}
+
+.teamimage{
+
+    
+
+
+}
+
+.teamimage img{
+
+    float: left;
+    
+    width: 25%;
+    
+
+    
+    
+    
+}
 
 
 
@@ -229,7 +271,7 @@ footer{
     color: white;
     width: 100%;
 
-    
+
   
 
 }
